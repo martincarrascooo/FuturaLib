@@ -29,60 +29,57 @@ Proporcionar una interfaz de usuario intuitiva y funcionalidades clave para admi
 
 ## 3. Product Backlog
 ### 3.1 Lista de Historias de Usuario
-- **Historia de Usuario 1: Registro de Libros**
-  - Descripción: Como bibliotecario quiero poder agregar nuevos libros al catálogo incluyendo información como título, autor, género y número de ejemplares disponibles.
-  - Criterios de Aceptación:
-    1. Debe existir un formulario de registro de libros.
-    2. El formulario debe incluir campos para título, autor, género y cantidad de ejemplares.
-    3. Se deben realizar validaciones para asegurar la integridad de la información ingresada.
-  - Prioridad: Alta
-  - Estimación: 5 puntos
-  - Tareas Técnicas:
-    1. Diseñar e implementar el formulario de registro de libros.
-    2. Crear la lógica backend para procesar y almacenar la información.
-    3. Implementar validaciones para prevenir datos incorrectos o incompletos.
+#### Historia de Usuario 1: Registro de Libros
+- **Descripción:** Como bibliotecario quiero poder agregar nuevos libros al catálogo incluyendo información como título, autor, género y número de ejemplares disponibles.
+- **Criterios de Aceptación:**
+  1. Debe existir un formulario de registro de libros.
+  2. El formulario debe incluir campos para título, autor, género y cantidad de ejemplares.
+  3. Se deben realizar validaciones para asegurar la integridad de la información ingresada.
+- **Prioridad:** Alta
+- **Estimación:** 5 puntos
+- **Tareas Técnicas:**
+  1. Diseñar e implementar el formulario de registro de libros.
+  2. Crear la lógica backend para procesar y almacenar la información.
+  3. Implementar validaciones para prevenir datos incorrectos o incompletos.
 
-- **Historia de Usuario 2: Búsqueda de Libros**
-  - Descripción: Como usuario quiero poder buscar libros en el catálogo por título o autor para encontrar rápidamente la información que necesito.
-  - Criterios de Aceptación:
-    1. Debe haber un campo de búsqueda en la interfaz.
-    2. Los resultados de la búsqueda deben mostrar información relevante de los libros.
-    3. La búsqueda debe ser sensible a mayúsculas y minúsculas.
-  - Prioridad: Media
-  - Estimación: 3 puntos
-  - Tareas Técnicas:
-    1. Integrar un campo de búsqueda en la interfaz.
-    2. Desarrollar la lógica backend para realizar búsquedas eficientes.
-    3. Implementar la visualización de resultados en la interfaz.
+#### Historia de Usuario 2: Búsqueda de Libros
+- **Descripción:** Como usuario quiero poder buscar libros en el catálogo por título o autor para encontrar rápidamente la información que necesito.
+- **Criterios de Aceptación:**
+  1. Debe haber un campo de búsqueda en la interfaz.
+  2. Los resultados de la búsqueda deben mostrar información relevante de los libros.
+  3. La búsqueda debe ser sensible a mayúsculas y minúsculas.
+- **Prioridad:** Media
+- **Estimación:** 3 puntos
+- **Tareas Técnicas:**
+  1. Integrar un campo de búsqueda en la interfaz.
+  2. Desarrollar la lógica backend para realizar búsquedas eficientes.
+  3. Implementar la visualización de resultados en la interfaz.
 
-- **Historia de Usuario 3: Registro de Préstamos y Devoluciones**
-  - Descripción:  Como bibliotecario, quiero poder registrar préstamos de libros a los usuarios, realizar 
-un seguimiento de las fechas de vencimiento y gestionar las devoluciones.
-  - Criterios de Aceptación:
-    1. Debe existir un formulario de registro de préstamos.
-    2. El formulario debe incluir información del libro, usuario y fecha de vencimiento.
-    3. Los préstamos deben registrarse con la fecha actual y una fecha de vencimiento.
-  - Prioridad: Alta
-  - Estimación: 8 puntos
-  - Tareas Técnicas:
-    1. Diseñar e implementar el formulario de registro de préstamos.
-    2. Crear la lógica backend para procesar y almacenar la información de préstamos.
-    3. Implementar la lógica de seguimiento de fechas de vencimiento.
+#### Historia de Usuario 3: Registro de Préstamos y Devoluciones
+- **Descripción:** Como bibliotecario, quiero poder registrar préstamos de libros a los usuarios, realizar un seguimiento de las fechas de vencimiento y gestionar las devoluciones.
+- **Criterios de Aceptación:**
+  1. Debe existir un formulario de registro de préstamos.
+  2. El formulario debe incluir información del libro, usuario y fecha de vencimiento.
+  3. Los préstamos deben registrarse con la fecha actual y una fecha de vencimiento.
+- **Prioridad:** Alta
+- **Estimación:** 8 puntos
+- **Tareas Técnicas:**
+  1. Diseñar e implementar el formulario de registro de préstamos.
+  2. Crear la lógica backend para procesar y almacenar la información de préstamos.
+  3. Implementar la lógica de seguimiento de fechas de vencimiento.
 
-- **Historia de Usuario 4: Gestión de Usuarios**
-  - Descripción:  Como bibliotecario, quiero poder agregar, editar y eliminar información de usuarios, 
-incluyendo nombre, número de identificación y detalles de contacto.
-  - Criterios de Aceptación:
-    1. Debe existir una interfaz de administración de usuarios.
-    2. Se deben proporcionar funciones para agregar, editar y eliminar usuarios.
-    3. La información del usuario debe incluir nombre, número de identificación y detalles de 
-contacto.
-  - Prioridad: Alta
-  - Estimación: 6 puntos
-  - Tareas Técnicas:
-    1. Crear la interfaz de administración de usuarios.
-    2. Implementar funciones para agregar, editar y eliminar usuarios.
-    3. Diseñar e implementar la lógica backend para gestionar usuarios.
+#### Historia de Usuario 4: Gestión de Usuarios
+- **Descripción:** Como bibliotecario, quiero poder agregar, editar y eliminar información de usuarios, incluyendo nombre, número de identificación y detalles de contacto.
+- **Criterios de Aceptación:**
+  1. Debe existir una interfaz de administración de usuarios.
+  2. Se deben proporcionar funciones para agregar, editar y eliminar usuarios.
+  3. La información del usuario debe incluir nombre, número de identificación y detalles de contacto.
+- **Prioridad:** Alta
+- **Estimación:** 6 puntos
+- **Tareas Técnicas:**
+  1. Crear la interfaz de administración de usuarios.
+  2. Implementar funciones para agregar, editar y eliminar usuarios.
+  3. Diseñar e implementar la lógica backend para gestionar usuarios.
 
 - **Historia de Usuario 5: Interfaz de Usuario Intuitiva**
   - Descripción: Como usuario, quiero una interfaz de usuario fácil de entender y navegar para poder utilizar el sistema de manera eficiente.
