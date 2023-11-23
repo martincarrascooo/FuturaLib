@@ -172,14 +172,14 @@ contacto.
 |---------------------|-------------------------|
 | 1. Registro de Libros | 1. Debe existir un formulario de registro de libros.<br>2. El formulario debe incluir campos para título, autor, género y cantidad de ejemplares.<br>3. Se deben realizar validaciones para asegurar la integridad de la información ingresada. |
 | 2. Búsqueda de Libros | 1. Debe haber un campo de búsqueda en la interfaz.<br>2. Los resultados de la búsqueda deben mostrar información relevante de los libros.<br>3. La búsqueda debe ser sensible a mayúsculas y minúsculas. |
-| Registro de Préstamos y Devoluciones | 1. Debe existir un formulario de registro de préstamos.<br>2. El formulario debe incluir información del libro, usuario y fecha de vencimiento.<br>3. Los préstamos deben registrarse con la fecha actual y una fecha de vencimiento. |
-| Gestión de Usuarios | 1. Debe existir una interfaz de administración de usuarios.<br>2. Se deben proporcionar funciones para agregar, editar y eliminar usuarios.<br>3. La información del usuario debe incluir nombre, número de identificación y detalles de contacto. |
-| Interfaz de Usuario Intuitiva | 1. La interfaz debe ser limpia y fácil de navegar.<br>2. Las funciones principales deben ser fácilmente accesibles desde la interfaz principal.<br>3. Se deben utilizar elementos visuales y de diseño para mejorar la usabilidad. |
-| Notificaciones de Vencimiento de Préstamos | 1. Los usuarios deben recibir notificaciones por correo electrónico o en la interfaz del sistema.<br>2. Las notificaciones deben enviarse cuando faltan 3 días para la fecha de vencimiento.<br>3. Los usuarios pueden optar por desactivar las notificaciones si lo desean. |
-| Registro de Historial de Préstamos | 1. Debe existir una sección de historial de préstamos en la interfaz del usuario.<br>2. El historial debe mostrar información detallada de cada préstamo y devolución.<br>3. Los usuarios pueden filtrar el historial por diferentes criterios. |
-| Estadísticas de Uso | 1. Debe existir una sección de estadísticas en la interfaz de administración.<br>2. Las estadísticas deben incluir información sobre los libros más prestados y la actividad de préstamos por usuario.<br>3. Los datos estadísticos deben actualizarse en tiempo real. |
-| Seguridad del Sistema | 1. Todos los datos confidenciales deben almacenarse de manera segura utilizando prácticas de cifrado.<br>2. Se debe implementar un sistema de autenticación seguro para garantizar el acceso solo a usuarios autorizados.<br>3. Debe haber registros de actividad que registren intentos de acceso no autorizados. |
-| Integración con Sistema de Catálogo en Línea | 1. Debe establecerse una conexión bidireccional con el sistema de catálogo en línea.<br>2. La información sobre nuevos libros en el catálogo en línea debe actualizarse automáticamente en el sistema de gestión de biblioteca.<br>3. Se debe proporcionar una interfaz para revisar y gestionar la información importada. |
+| 3. Registro de Préstamos y Devoluciones | 1. Debe existir un formulario de registro de préstamos.<br>2. El formulario debe incluir información del libro, usuario y fecha de vencimiento.<br>3. Los préstamos deben registrarse con la fecha actual y una fecha de vencimiento. |
+| 4. Gestión de Usuarios | 1. Debe existir una interfaz de administración de usuarios.<br>2. Se deben proporcionar funciones para agregar, editar y eliminar usuarios.<br>3. La información del usuario debe incluir nombre, número de identificación y detalles de contacto. |
+| 5. Interfaz de Usuario Intuitiva | 1. La interfaz debe ser limpia y fácil de navegar.<br>2. Las funciones principales deben ser fácilmente accesibles desde la interfaz principal.<br>3. Se deben utilizar elementos visuales y de diseño para mejorar la usabilidad. |
+| 6. Notificaciones de Vencimiento de Préstamos | 1. Los usuarios deben recibir notificaciones por correo electrónico o en la interfaz del sistema.<br>2. Las notificaciones deben enviarse cuando faltan 3 días para la fecha de vencimiento.<br>3. Los usuarios pueden optar por desactivar las notificaciones si lo desean. |
+| 7. Registro de Historial de Préstamos | 1. Debe existir una sección de historial de préstamos en la interfaz del usuario.<br>2. El historial debe mostrar información detallada de cada préstamo y devolución.<br>3. Los usuarios pueden filtrar el historial por diferentes criterios. |
+| 8. Estadísticas de Uso | 1. Debe existir una sección de estadísticas en la interfaz de administración.<br>2. Las estadísticas deben incluir información sobre los libros más prestados y la actividad de préstamos por usuario.<br>3. Los datos estadísticos deben actualizarse en tiempo real. |
+| 9. Seguridad del Sistema | 1. Todos los datos confidenciales deben almacenarse de manera segura utilizando prácticas de cifrado.<br>2. Se debe implementar un sistema de autenticación seguro para garantizar el acceso solo a usuarios autorizados.<br>3. Debe haber registros de actividad que registren intentos de acceso no autorizados. |
+| 10. Integración con Sistema de Catálogo en Línea | 1. Debe establecerse una conexión bidireccional con el sistema de catálogo en línea.<br>2. La información sobre nuevos libros en el catálogo en línea debe actualizarse automáticamente en el sistema de gestión de biblioteca.<br>3. Se debe proporcionar una interfaz para revisar y gestionar la información importada. |
 
 ## 5. Priorización y Planificación
 - Se utilizará la priorización de Alta, Media, y Baja.
@@ -187,13 +187,13 @@ contacto.
 
 | Historia de Usuario                        | Prioridad | Estimación |
 |--------------------------------------------|-----------|------------|
-| Registro de Libros                         | Alta      | 5 puntos   |
-| Gestión de Usuarios                        | Alta      | 8 puntos   |
-| Registro de Préstamos y Devoluciones       | Alta      | 5 puntos   |
-| Interfaz de Usuario Intuitiva              | Alta      | 4 puntos   |
-| Registro de Historial de Préstamos         | Media     | 5 puntos   |
-| Seguridad del Sistema                      | Media     | 7 puntos   |
-| Integración con Sistema de Catálogo en Línea| Media     | 7 puntos   |
-| Notificaciones de Vencimiento de Préstamos | Baja      | 7 puntos   |
-| Búsqueda de Libros                         | Baja      | 7 puntos   |
-| Estadísticas de Uso                        | Baja      | 9 puntos   |
+| 1. Registro de Libros                         | Alta      | 5 puntos   |
+| 4. Gestión de Usuarios                        | Alta      | 8 puntos   |
+| 3. Registro de Préstamos y Devoluciones       | Alta      | 5 puntos   |
+| 5. Interfaz de Usuario Intuitiva              | Alta      | 4 puntos   |
+| 7. Registro de Historial de Préstamos         | Media     | 5 puntos   |
+| 9. Seguridad del Sistema                      | Media     | 7 puntos   |
+| 10. Integración con Sistema de Catálogo en Línea| Media     | 7 puntos   |
+| 6. Notificaciones de Vencimiento de Préstamos | Baja      | 7 puntos   |
+| 2. Búsqueda de Libros                         | Baja      | 7 puntos   |
+| 8. Estadísticas de Uso                        | Baja      | 9 puntos   |
