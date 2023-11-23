@@ -1,27 +1,17 @@
 # Product Backlog
 
 ## Índice
-1. Introducción
-   1.1. Nombre del Proyecto
-   1.2. Fecha de Creación/Actualización
-2. Descripción del Proyecto
-   2.1. Descripción
-   2.2. Visión del Producto
-3. Product Backlog
-   3.1. Lista de Historias de Usuario
-      - Historia de Usuario 1: Registro de Libros
-      - Historia de Usuario 2: Búsqueda de Libros
-      - Historia de Usuario 3: Registro de Préstamos y Devoluciones
-      - Historia de Usuario 4: Gestión de Usuarios
-      - Historia de Usuario 5: Interfaz de Usuario Intuitiva
-      - Historia de Usuario 6: Notificaciones de Vencimiento de Préstamos
-      - Historia de Usuario 7: Registro de Historial de Préstamos
-      - Historia de Usuario 8: Estadísticas de Uso
-      - Historia de Usuario 9: Seguridad del Sistema
-      - Historia de Usuario 10: Integración con Sistema de Catálogo en Línea
-   3.2. Notas y Detalles Adicionales
-4. Criterios de Aceptación
-5. Priorización y Planificación
+1. [Introducción](#1-introducción)
+   1. [Nombre del Proyecto](#11-nombre-del-proyecto)
+   2. [Fecha de Creación/Actualización](#12-fecha-de-creaciónactualización)
+2. [Descripción del Proyecto](#2-descripción-del-proyecto)
+   1. [Descripción](#21-descripción)
+   2. [Visión del Producto](#22-visión-del-producto)
+3. [Product Backlog](#3-product-backlog)
+   1. [Lista de Historias de Usuario](#31-lista-de-historias-de-usuario)
+   2. [Notas y Detalles Adicionales](#32-notas-y-detalles-adicionales)
+4. [Criterios de Aceptación](#4-criterios-de-aceptación)
+5. [Priorización y Planificación](#5-priorización-y-planificación)
 
 ## 1. Introducción
 ### 1.1 Nombre del Proyecto
