@@ -81,83 +81,83 @@ Proporcionar una interfaz de usuario intuitiva y funcionalidades clave para admi
   2. Implementar funciones para agregar, editar y eliminar usuarios.
   3. Diseñar e implementar la lógica backend para gestionar usuarios.
 
-- **Historia de Usuario 5: Interfaz de Usuario Intuitiva**
-  - Descripción: Como usuario, quiero una interfaz de usuario fácil de entender y navegar para poder utilizar el sistema de manera eficiente.
-  - Criterios de Aceptación:
-    1. La interfaz debe ser limpia y fácil de navegar.
-    2. Las funciones principales deben ser fácilmente accesibles desde la interfaz principal.
-    3. Se deben utilizar elementos visuales y de diseño para mejorar la usabilidad.
-  - Prioridad: Alta
-  - Estimación: 4 puntos
-  - Tareas Técnicas:
-    1. Diseñar una interfaz de usuario con un enfoque en la usabilidad.
-    2. Crear un diseño coherente para todas las pantallas del sistema.
-    3. Realizar pruebas de usuario para optimizar la experiencia de usuario.
+#### Historia de Usuario 5: Interfaz de Usuario Intuitiva
+- **Descripción:** Como usuario, quiero una interfaz de usuario fácil de entender y navegar para poder utilizar el sistema de manera eficiente.
+- **Criterios de Aceptación:**
+  1. La interfaz debe ser limpia y fácil de navegar.
+  2. Las funciones principales deben ser fácilmente accesibles desde la interfaz principal.
+  3. Se deben utilizar elementos visuales y de diseño para mejorar la usabilidad.
+- **Prioridad:** Alta
+- **Estimación:** 4 puntos
+- **Tareas Técnicas:**
+  1. Diseñar una interfaz de usuario con un enfoque en la usabilidad.
+  2. Crear un diseño coherente para todas las pantallas del sistema.
+  3. Realizar pruebas de usuario para optimizar la experiencia de usuario.
 
-- **Historia de Usuario 6: Notificaciones de Vencimiento de Préstamos**
-  - Descripción: Como usuario, quiero recibir notificaciones sobre el vencimiento de mis préstamos para evitar retrasos y multas.
-  - Criterios de Aceptación:
-    1. Los usuarios deben recibir notificaciones por correo electrónico o en la interfaz del sistema.
-    2. Las notificaciones deben enviarse cuando faltan 3 días para la fecha de vencimiento.
-    3. Los usuarios pueden optar por desactivar las notificaciones si lo desean.
-  - Prioridad: Baja
-  - Estimación: 7 puntos
-  - Tareas Técnicas:
-    1. Implementar un sistema de notificaciones dentro de la aplicación.
-    2. Crear una función para enviar correos electrónicos automáticos.
-    3. Permitir a los usuarios configurar sus preferencias de notificación.
+#### Historia de Usuario 6: Notificaciones de Vencimiento de Préstamos
+- **Descripción:** Como usuario, quiero recibir notificaciones sobre el vencimiento de mis préstamos para evitar retrasos y multas.
+- **Criterios de Aceptación:**
+  1. Los usuarios deben recibir notificaciones por correo electrónico o en la interfaz del sistema.
+  2. Las notificaciones deben enviarse cuando faltan 3 días para la fecha de vencimiento.
+  3. Los usuarios pueden optar por desactivar las notificaciones si lo desean.
+- **Prioridad:** Baja
+- **Estimación:** 7 puntos
+- **Tareas Técnicas:**
+  1. Implementar un sistema de notificaciones dentro de la aplicación.
+  2. Crear una función para enviar correos electrónicos automáticos.
+  3. Permitir a los usuarios configurar sus preferencias de notificación.
 
-- **Historia de Usuario 7: Registro de Historial de Préstamos**
-  - Descripción: Como bibliotecario, quiero llevar un registro detallado de todos los préstamos y devoluciones para mantener un control eficiente sobre los recursos de la biblioteca.
-  - Criterios de Aceptación:
-    1. Debe existir una sección de historial de préstamos en la interfaz del usuario.
-    2. El historial debe mostrar información detallada de cada préstamo y devolución.
-    3. Los usuarios pueden filtrar el historial por diferentes criterios.
-  - Prioridad: Media
-  - Estimación: 5 puntos
-  - Tareas Técnicas:
-    1. Diseñar e implementar una sección de historial en la interfaz.
-    2. Crear un sistema backend para almacenar y recuperar datos de préstamos.
-    3. Implementar funciones de filtrado y búsqueda en el historial.
+#### Historia de Usuario 7: Registro de Historial de Préstamos
+- **Descripción:** Como bibliotecario, quiero llevar un registro detallado de todos los préstamos y devoluciones para mantener un control eficiente sobre los recursos de la biblioteca.
+- **Criterios de Aceptación:**
+  1. Debe existir una sección de historial de préstamos en la interfaz del usuario.
+  2. El historial debe mostrar información detallada de cada préstamo y devolución.
+  3. Los usuarios pueden filtrar el historial por diferentes criterios.
+- **Prioridad:** Media
+- **Estimación:** 5 puntos
+- **Tareas Técnicas:**
+  1. Diseñar e implementar una sección de historial en la interfaz.
+  2. Crear un sistema backend para almacenar y recuperar datos de préstamos.
+  3. Implementar funciones de filtrado y búsqueda en el historial.
 
-- **Historia de Usuario 8: Estadísticas de Uso**
-  - Descripción: Como bibliotecario, quiero tener acceso a estadísticas sobre el uso de la biblioteca para mejorar la gestión y planificación de recursos.
-  - Criterios de Aceptación:
-    1. Debe existir una sección de estadísticas en la interfaz de administración.
-    2. Las estadísticas deben incluir información sobre los libros más prestados y la actividad de préstamos por usuario.
-    3. Los datos estadísticos deben actualizarse en tiempo real.
-  - Prioridad: Baja
-  - Estimación: 9 puntos
-  - Tareas Técnicas:
-    1. Implementar un sistema de recolección de datos para estadísticas.
-    2. Desarrollar una interfaz de usuario para visualizar las estadísticas.
-    3. Garantizar la actualización en tiempo real de los datos.
+#### Historia de Usuario 8: Estadísticas de Uso
+- **Descripción:** Como bibliotecario, quiero tener acceso a estadísticas sobre el uso de la biblioteca para mejorar la gestión y planificación de recursos.
+- **Criterios de Aceptación:**
+  1. Debe existir una sección de estadísticas en la interfaz de administración.
+  2. Las estadísticas deben incluir información sobre los libros más prestados y la actividad de préstamos por usuario.
+  3. Los datos estadísticos deben actualizarse en tiempo real.
+- **Prioridad:** Baja
+- **Estimación:** 9 puntos
+- **Tareas Técnicas:**
+  1. Implementar un sistema de recolección de datos para estadísticas.
+  2. Desarrollar una interfaz de usuario para visualizar las estadísticas.
+  3. Garantizar la actualización en tiempo real de los datos.
 
-- **Historia de Usuario 9: Seguridad del Sistema**
-  - Descripción: Como administrador del sistema, quiero asegurarme de que todos los datos y transacciones dentro del sistema sean seguros y estén protegidos.
-  - Criterios de Aceptación:
-    1. Todos los datos confidenciales deben almacenarse de manera segura utilizando prácticas de cifrado.
-    2. Se debe implementar un sistema de autenticación seguro para garantizar el acceso solo a usuarios autorizados.
-    3. Debe haber registros de actividad que registren intentos de acceso no autorizados.
-  - Prioridad: Media
-  - Estimación: 7 puntos
-  - Tareas Técnicas:
-    1. Implementar medidas de seguridad para la protección de datos.
-    2. Desarrollar un sistema de autenticación y autorización robusto.
-    3. Crear un sistema de registro y seguimiento de la actividad del usuario.
+#### Historia de Usuario 9: Seguridad del Sistema
+- **Descripción:** Como administrador del sistema, quiero asegurarme de que todos los datos y transacciones dentro del sistema sean seguros y estén protegidos.
+- **Criterios de Aceptación:**
+  1. Todos los datos confidenciales deben almacenarse de manera segura utilizando prácticas de cifrado.
+  2. Se debe implementar un sistema de autenticación seguro para garantizar el acceso solo a usuarios autorizados.
+  3. Debe haber registros de actividad que registren intentos de acceso no autorizados.
+- **Prioridad:** Media
+- **Estimación:** 7 puntos
+- **Tareas Técnicas:**
+  1. Implementar medidas de seguridad para la protección de datos.
+  2. Desarrollar un sistema de autenticación y autorización robusto.
+  3. Crear un sistema de registro y seguimiento de la actividad del usuario.
 
-- **Historia de Usuario 10: Integración con Sistema de Catálogo en Línea**
-  - Descripción: Como bibliotecario, quiero que el sistema de gestión de la biblioteca esté integrado con el sistema de catálogo en línea para una gestión eficiente y actualizada de los recursos.
-  - Criterios de Aceptación:
-    1. Debe establecerse una conexión bidireccional con el sistema de catálogo en línea.
-    2. La información sobre nuevos libros en el catálogo en línea debe actualizarse automáticamente en el sistema de gestión de biblioteca.
-    3. Se debe proporcionar una interfaz para revisar y gestionar la información importada.
-  - Prioridad: Media
-  - Estimación: 7 puntos
-  - Tareas Técnicas:
-    1. Desarrollar la integración con el sistema de catálogo en línea.
-    2. Automatizar la actualización de la información del catálogo.
-    3. Crear una interfaz para la gestión de datos sincronizados.
+#### Historia de Usuario 10: Integración con Sistema de Catálogo en Línea
+- **Descripción:** Como bibliotecario, quiero que el sistema de gestión de la biblioteca esté integrado con el sistema de catálogo en línea para una gestión eficiente y actualizada de los recursos.
+- **Criterios de Aceptación:**
+  1. Debe establecerse una conexión bidireccional con el sistema de catálogo en línea.
+  2. La información sobre nuevos libros en el catálogo en línea debe actualizarse automáticamente en el sistema de gestión de biblioteca.
+  3. Se debe proporcionar una interfaz para revisar y gestionar la información importada.
+- **Prioridad:** Media
+- **Estimación:** 7 puntos
+- **Tareas Técnicas:**
+  1. Desarrollar la integración con el sistema de catálogo en línea.
+  2. Automatizar la actualización de la información del catálogo.
+  3. Crear una interfaz para la gestión de datos sincronizados.
 
 ### 3.2 Notas y Detalles Adicionales
 - **Descripción del Entorno de Desarrollo:** El proyecto se desarrollará en C# utilizando el framework .NET y la tecnología WinForms para la creación de una aplicación de escritorio. La elección de estos lenguajes y entorno se basa en la experiencia previa del equipo en proyectos similares donde estas tecnologías demostraron ser eficientes y robustas.
