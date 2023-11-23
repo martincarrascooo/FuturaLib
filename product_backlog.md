@@ -170,8 +170,8 @@ contacto.
 ## 4. Criterios de Aceptación
 | Historia de Usuario | Criterios de Aceptación |
 |---------------------|-------------------------|
-| Registro de Libros | 1. Debe existir un formulario de registro de libros.<br>2. El formulario debe incluir campos para título, autor, género y cantidad de ejemplares.<br>3. Se deben realizar validaciones para asegurar la integridad de la información ingresada. |
-| Búsqueda de Libros | 1. Debe haber un campo de búsqueda en la interfaz.<br>2. Los resultados de la búsqueda deben mostrar información relevante de los libros.<br>3. La búsqueda debe ser sensible a mayúsculas y minúsculas. |
+| 1. Registro de Libros | 1. Debe existir un formulario de registro de libros.<br>2. El formulario debe incluir campos para título, autor, género y cantidad de ejemplares.<br>3. Se deben realizar validaciones para asegurar la integridad de la información ingresada. |
+| 2. Búsqueda de Libros | 1. Debe haber un campo de búsqueda en la interfaz.<br>2. Los resultados de la búsqueda deben mostrar información relevante de los libros.<br>3. La búsqueda debe ser sensible a mayúsculas y minúsculas. |
 | Registro de Préstamos y Devoluciones | 1. Debe existir un formulario de registro de préstamos.<br>2. El formulario debe incluir información del libro, usuario y fecha de vencimiento.<br>3. Los préstamos deben registrarse con la fecha actual y una fecha de vencimiento. |
 | Gestión de Usuarios | 1. Debe existir una interfaz de administración de usuarios.<br>2. Se deben proporcionar funciones para agregar, editar y eliminar usuarios.<br>3. La información del usuario debe incluir nombre, número de identificación y detalles de contacto. |
 | Interfaz de Usuario Intuitiva | 1. La interfaz debe ser limpia y fácil de navegar.<br>2. Las funciones principales deben ser fácilmente accesibles desde la interfaz principal.<br>3. Se deben utilizar elementos visuales y de diseño para mejorar la usabilidad. |
