@@ -13,7 +13,7 @@
 4. [Criterios de Aceptación](#4-criterios-de-aceptación)
 5. [Priorización y Planificación](#5-priorización-y-planificación)
 
-## 1. __Introducción__
+## 1. Introducción
 ### 1.1 Nombre del Proyecto
 FuturaLib: Sistema de Gestión de Biblioteca
 
