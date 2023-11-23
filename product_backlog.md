@@ -22,7 +22,7 @@
 
 ## 2. Descripción del Proyecto
 ### 2.1 Descripción
-Desarrollar un sistema de gestión de biblioteca que permita a los bibliotecarios y usuarios llevar un registro de los libros en la biblioteca, realizar préstamos y devoluciones y gestionar los datos de los usuarios.
+Desarrollar un sistema de gestión de biblioteca que permita a los bibliotecarios y usuarios llevar un registro de los libros en la biblioteca, realizar préstamos y devoluciones, y gestionar los datos de los usuarios.
 
 ### 2.2 Visión del Producto
 Proporcionar una interfaz de usuario intuitiva y funcionalidades clave para administrar eficientemente la biblioteca.
