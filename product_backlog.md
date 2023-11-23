@@ -15,10 +15,10 @@
 
 ## 1. Introducción
 ### 1.1 Nombre del Proyecto
-FuturaLib: Sistema de Gestión de Biblioteca
+**FuturaLib: Sistema de Gestión de Biblioteca**
 
 ### 1.2 Fecha de Creación/Actualización
-23 de enero de 2023
+*23 de enero de 2023*
 
 ## 2. Descripción del Proyecto
 ### 2.1 Descripción
