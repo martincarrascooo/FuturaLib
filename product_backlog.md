@@ -89,3 +89,17 @@ Proporcionar una interfaz de usuario intuitiva y funcionalidades clave para admi
 ## 5. Priorización y Planificación
 - Se utilizará la priorización de Alta, Media, y Baja.
 - Se estimará el esfuerzo en puntos de historia de usuario.
+
+| Historia de Usuario                   | Prioridad | Estimación |
+|---------------------------------------|-----------|------------|
+| Registro de Libros                    | Alta      | 5 puntos   |
+| Búsqueda de Libros                    | Baja      | 7 puntos   |
+| Registro de Préstamos y Devoluciones  | Alta      | 8 puntos   |
+| Gestión de Usuarios                   | Alta      | 6 puntos   |
+| Interfaz de Usuario Intuitiva         | Alta      | 4 puntos   |
+| Notificaciones de Vencimiento de Préstamos | Baja | 7 puntos   |
+| Registro de Historial de Préstamos    | Media     | 5 puntos   |
+| Estadísticas de Uso                   | Baja      | 9 puntos   |
+| Seguridad del Sistema                 | Media     | 7 puntos   |
+| Integración con Sistema de Catálogo en Línea | Alta | 6 puntos |
+
