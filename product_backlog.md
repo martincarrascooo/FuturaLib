@@ -160,9 +160,9 @@ Proporcionar una interfaz de usuario intuitiva y funcionalidades clave para admi
     3. Crear una interfaz para la gestión de datos sincronizados.
 
 ### 3.2 Notas y Detalles Adicionales
-- Descripción del Entorno de Desarrollo: El proyecto se desarrollará en C# utilizando el framework .NET y la tecnología WinForms para la creación de una aplicación de escritorio. La elección de estos lenguajes y entorno se basa en la experiencia previa del equipo en proyectos similares donde estas tecnologías demostraron ser eficientes y robustas.
-- Patrón de Arquitectura: La aplicación seguirá una arquitectura Modelo-Vista-Presentador (MVP) que ofrece una estructura organizativa clara y modular. El patrón MVP proporciona una separación clara de las responsabilidades facilitando el mantenimiento, la escalabilidad y la prueba de la aplicación.
-- Control de Versiones: Para gestionar el código fuente y colaborar eficientemente se utilizará Git como sistema de control de versiones alojando el repositorio en GitHub. Esto permitirá un desarrollo colaborativo, seguimiento de cambios y una gestión efectiva de problemas y solicitudes de extracción.
+- **Descripción del Entorno de Desarrollo:** El proyecto se desarrollará en C# utilizando el framework .NET y la tecnología WinForms para la creación de una aplicación de escritorio. La elección de estos lenguajes y entorno se basa en la experiencia previa del equipo en proyectos similares donde estas tecnologías demostraron ser eficientes y robustas.
+- **Patrón de Arquitectura:** La aplicación seguirá una arquitectura Modelo-Vista-Presentador (MVP) que ofrece una estructura organizativa clara y modular. El patrón MVP proporciona una separación clara de las responsabilidades facilitando el mantenimiento, la escalabilidad y la prueba de la aplicación.
+- **Control de Versiones:** Para gestionar el código fuente y colaborar eficientemente se utilizará Git como sistema de control de versiones alojando el repositorio en GitHub. Esto permitirá un desarrollo colaborativo, seguimiento de cambios y una gestión efectiva de problemas y solicitudes de extracción.
 
 ## 4. Criterios de Aceptación
 | Historia de Usuario | Criterios de Aceptación |
